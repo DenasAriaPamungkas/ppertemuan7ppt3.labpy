@@ -1,8 +1,8 @@
 # ppertemuan7ppt3.labpy
 # PERTEMUAN 7
-### NAMA: DIYAN ARUM M
+### NAMA: DENAS ARIA PAMUNGKAS
 ### KELAS: TI. 20. A. 1
-### NIM: 312010133
+### NIM: 312010089
 
 _________________________________________________________________________________________
 ## TUGAS PRAKTIKUM 3
