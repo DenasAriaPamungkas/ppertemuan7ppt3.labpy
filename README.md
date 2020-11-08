@@ -1,8 +1,8 @@
 # ppertemuan7ppt3.labpy
 # PERTEMUAN 7
-### NAMA: DENAS ARIA PAMUNGKAS
+### NAMA: DIYAN ARUM M
 ### KELAS: TI. 20. A. 1
-### NIM: 312010089
+### NIM: 312010133
 
 _________________________________________________________________________________________
 ## TUGAS PRAKTIKUM 3
@@ -14,7 +14,8 @@ ________________________________________________________________________________
 ## LATIHAN 1
 Untuk saat ini saya akan mencoba untuk mengerjakan Latihan 1 seperti gambar dibawah ini terlebih dahulu.
 
-!![hasil5](https://user-images.githubusercontent.com/72905634/98460537-3252ea00-215a-11eb-80bf-37a8dafe32fc.png)
+![Lat1](https://user-images.githubusercontent.com/72906579/98434023-757f6f80-20fe-11eb-84c8-f932fae7a155.png)
+
 untuk mengerjakannya kalian perlu memasukan sytax berikut 
 
 ```python
@@ -31,7 +32,7 @@ for i in range(jum):
 ```
 Maka hasil yang didapat dari syntax tersebut adalah
 
-![Jawaban Lat1](https://user-images.githubusercontent.com/72906579/98442996-17bd4880-213b-11eb-85c9-020f57559768.png)
+![hasil5](https://user-images.githubusercontent.com/72905634/98460537-3252ea00-215a-11eb-80bf-37a8dafe32fc.png)
 _______________________________________________________________________________________
 ## LATIHAN 2
 Setelahnya saya akan mencoba untuk mengerjakan Latihan selanjutnya yaitu Latihan 2.
