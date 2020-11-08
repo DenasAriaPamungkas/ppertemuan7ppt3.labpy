@@ -57,4 +57,4 @@ if N>0:
 ```
 Setelah itu bisa langsung kalian run untuk dapat memasukan data yang sesuai dengan yang ada di soal seperti dibawah ini
 
-![Jawaban Lat2](https://user-images.githubusercontent.com/72906579/98442806-a761f780-2139-11eb-9f58-65ddeecf8eab.png)
+!![hasil6](https://user-images.githubusercontent.com/72905634/98460767-13edee00-215c-11eb-8a3c-7caed9aeaa34.png)
